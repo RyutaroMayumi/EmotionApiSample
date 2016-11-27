@@ -1,0 +1,16 @@
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\bin\Debug\EmotionApiSample.exe.config
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\bin\Debug\EmotionApiSample.exe
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\bin\Debug\EmotionApiSample.pdb
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.csprojResolveAssemblyReference.cache
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\MainWindow.g.cs
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\App.g.cs
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample_MarkupCompile.cache
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample_MarkupCompile.lref
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\MainWindow.baml
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.g.resources
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.Properties.Resources.resources
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.csproj.GenerateResource.Cache
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.exe
+d:\users\dragolunar\documents\visual studio 2015\Projects\EmotionApiSample\EmotionApiSample\obj\Debug\EmotionApiSample.pdb
+D:\Users\dragolunar\Documents\Visual Studio 2015\Projects\EmotionApiSample\EmotionApiSample\bin\Debug\Newtonsoft.Json.dll
+D:\Users\dragolunar\Documents\Visual Studio 2015\Projects\EmotionApiSample\EmotionApiSample\bin\Debug\Newtonsoft.Json.xml
